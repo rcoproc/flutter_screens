@@ -1,8 +1,8 @@
 # Screens - Foods App
 
-A new Flutter application.
+A Foods Application.
 
-| Tela Principal  | Tela 2 | Detalhe | Configuraões | Favoritos |
+| Menu das Categorias  | Listagem da Categoria | Detalhe | Configuraões | Favoritos |
 |---|---|---|---|---|
 | ![](https://github.com/rcoproc/flutter_screens/blob/master/images/screen1.png) | ![](https://github.com/rcoproc/flutter_screens/blob/master/images/screen2.png) | ![](https://github.com/rcoproc/flutter_screens/blob/master/images/screen3.png) | ![](https://github.com/rcoproc/flutter_screens/blob/master/images/Screen4.png) | ![](https://github.com/rcoproc/flutter_screens/blob/master/images/screen5.png) |
 
