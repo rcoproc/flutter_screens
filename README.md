@@ -2,7 +2,7 @@
 
 A new Flutter application.
 
-| Tela Principal  | Tela 2 | Tela 3 | Tela 4 | Tela 5 |
+| Tela Principal  | Tela 2 | Detalhe | Configuraões | Favoritos |
 |---|---|---|---|---|
 | ![](https://github.com/rcoproc/flutter_screens/blob/master/images/screen1.png) | ![](https://github.com/rcoproc/flutter_screens/blob/master/images/screen2.png) | ![](https://github.com/rcoproc/flutter_screens/blob/master/images/screen3.png) | ![](https://github.com/rcoproc/flutter_screens/blob/master/images/Screen4.png) | ![](https://github.com/rcoproc/flutter_screens/blob/master/images/screen5.png) |
 
