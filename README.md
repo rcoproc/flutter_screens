@@ -2,7 +2,7 @@
 
 A Foods Application.
 
-| Menu das Categorias  | Listagem da Categoria | Detalhe | Configuraões | Favoritos |
+| Menu das Categorias  | Listagem da Categoria | Detalhe | Configurações | Favoritos |
 |---|---|---|---|---|
 | ![](https://github.com/rcoproc/flutter_screens/blob/master/images/screen1.png) | ![](https://github.com/rcoproc/flutter_screens/blob/master/images/screen2.png) | ![](https://github.com/rcoproc/flutter_screens/blob/master/images/screen3.png) | ![](https://github.com/rcoproc/flutter_screens/blob/master/images/Screen4.png) | ![](https://github.com/rcoproc/flutter_screens/blob/master/images/screen5.png) |
 
